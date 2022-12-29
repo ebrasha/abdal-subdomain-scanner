@@ -24,9 +24,12 @@ Features
 
 - Support over 220,000 subdomain
  
+## ❤️ Donation
+> USDT:      TXLasexoQTjKMoWarikkfYRYWWXtbaVadB
 
-## Donation
-> Donate link: https://donate.abdalagency.ir/
+> bitcoin:   19LroTSwWcEBY2XjvgP6X4d6ECZ17U2XsK
+
+> For Iranian People -> MellatBank : 6104-3378-5301-4247
 
 
 ## Reporting Issues
